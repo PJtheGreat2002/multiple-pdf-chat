@@ -51,21 +51,27 @@ This project allows you to **chat with multiple PDF documents** by leveraging th
 git clone https://github.com/PJtheGreat2002/multiple-pdf-chat.git
 cd multiple-pdf-chat
 
+```
 ### 🔁 2. Set up a Virtual Environment
 
 ```bash
 python -m venv .pdfs
 source .pdfs/bin/activate  # Windows: .pdfs\Scripts\activate
 
+```
 ### 📥 3. Install Dependencies
+```bash
 pip install -r requirements.txt
-
+```
 
 ## 🔐 Setup Environment Variables
+```bash
 OPENAI_API_KEY=your_openai_api_key_here
-
+```
 ## ▶️ Run the App
+```bash
 streamlit run app.py
+```
 
 📄 License
 This project is open-source and available under the MIT License.
