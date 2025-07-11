@@ -2,7 +2,7 @@
 
 This project allows you to **chat with multiple PDF documents** by leveraging the power of **LangChain**, **FAISS** for vector similarity search, and **OpenAI's GPT** model for answering queries from your PDFs.
 
-> 🔄 Forked & adapted from [ask-multiple-pdfs by alejandro-ao](https://github.com/alejandro-ao/ask-multiple-pdfs)
+> 🔄 Adapted from [ask-multiple-pdfs by alejandro-ao](https://github.com/alejandro-ao/ask-multiple-pdfs)
 
 ---
 
